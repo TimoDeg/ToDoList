@@ -48,11 +48,6 @@ A simple ToDo List desktop app built using **C# (.NET)** and **SQLite** with Win
 
 ---
 
-## 📸 Screenshot
-
-![ToDo List App](screenshot.png)
-
----
 
 ## 📃 License
 
