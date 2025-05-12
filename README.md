@@ -2,6 +2,7 @@
 
 A simple ToDo List desktop app built using **C# (.NET)** and **SQLite** with Windows Forms. Tasks are saved locally and persist between sessions.
 
+
 ---
 
 ## 🚀 Features
@@ -50,8 +51,4 @@ A simple ToDo List desktop app built using **C# (.NET)** and **SQLite** with Win
 
 This project is licensed under the MIT License.
 
-```
-
 ---
-
-```
