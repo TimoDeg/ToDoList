@@ -1,6 +1,3 @@
----
-
-````markdown
 # 📝 ToDo List - Windows Forms App
 
 A simple ToDo List desktop app built using **C# (.NET)** and **SQLite** with Windows Forms. Tasks are saved locally and persist between sessions.
